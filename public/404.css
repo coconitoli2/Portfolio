@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #333;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 8rem;
+    color: #d9534f;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: #0275d8;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #025aa5;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio pour CEF. J'essaye de l'envoyer au centre de formation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coconitoli2/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/coconitoli2/Portfolio/issues"
+  },
+  "homepage": "https://github.com/coconitoli2/Portfolio#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
